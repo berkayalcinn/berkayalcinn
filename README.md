@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkayalcinn
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Bootstrap
 - 📫 You can reach me via [Instagram](https://www.instagram.com/berkayalcinnn/) or [Lınkedin](https://www.linkedin.com/in/berkayalcinn/)
 
 
